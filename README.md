@@ -1,5 +1,4 @@
-cat > README.md << 'EOF'
-# Protein–Protein Interaction Database Design and Query System
+Protein–Protein Interaction Database Design and Query System
 
 [![Database](https://img.shields.io/badge/database-SQLite-blue)](https://sqlite.org/)
 [![Language](https://img.shields.io/badge/language-R-green)](https://www.r-project.org/)
