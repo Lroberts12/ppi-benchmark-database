@@ -1,0 +1,80 @@
+1AHW_AB:C|Antibody-Antigen|rigid|2
+1DQJ_AB:C|Antibody-Antigen|rigid|2
+1E6J_HL:P|Antibody-Antigen|rigid|2
+1JPS_HL:T|Antibody-Antigen|rigid|2
+1MLC_AB:E|Antibody-Antigen|rigid|2
+1S78_DC:A|Antibody-Antigen|rigid|2
+1VFB_AB:C|Antibody-Antigen|rigid|2
+1WEJ_HL:F|Antibody-Antigen|rigid|2
+2DD8_HL:S|Antibody-Antigen|medium|2
+2FD6_HL:U|Antibody-Antigen|rigid|2
+2FJG_HL:VW|Antibody-Antigen|difficult|2
+2VIS_AB:C|Antibody-Antigen|rigid|2
+2VXT_HL:I|Antibody-Antigen|rigid|2
+2W9E_HL:A|Antibody-Antigen|rigid|2
+3EO1_AB:CF|Antibody-Antigen|medium|2
+3EOA_LH:I|Antibody-Antigen|rigid|2
+3G6D_LH:A|Antibody-Antigen|medium|2
+3HI6_XY:B|Antibody-Antigen|medium|2
+3HMX_LH:AB|Antibody-Antigen|rigid|2
+3L5W_LH:I|Antibody-Antigen|medium|2
+1AHW_AB:C|rigid
+1DQJ_AB:C|rigid
+1E6J_HL:P|rigid
+1JPS_HL:T|rigid
+1MLC_AB:E|rigid
+1S78_DC:A|rigid
+1VFB_AB:C|rigid
+1WEJ_HL:F|rigid
+2FD6_HL:U|rigid
+2VIS_AB:C|rigid
+1AVX_A:B|rigid
+1AY7_A:B|rigid
+1BUH_A:B|rigid
+1BVN_P:T|rigid
+1CLV_A:I|rigid
+1D6R_A:I|rigid
+1DFJ_E:I|rigid
+1EAW_A:B|rigid
+1EZU_C:AB   *|rigid
+1F34_A:B|rigid
+1AHW_AB:C|1FGN|LH|Fab 5g9|1284|ASPILELYSMETTHRGLNSERPROSERSERMETTYRALASERLEUGLYGL
+1AHW_AB:C|1TFH|A|Tissue factor|1314|SERGLYTHRTHRASNTHRVALALAALATYRASNLEUTHRTRPLYSSERTH
+difficult|35
+medium|60
+rigid|162
+Rac GTPase|1MH1|5|1E96_A:B,1HE1_C:A,1I4D_D:AB,2H7V_A:C,2NZ8_A:B
+Actin|1IJJ|4|1ATN_A:D,1H1V_A:G,1KXP_A:D,2BTF_A:P
+p300 TAZ2 domain|3IO2|3|3P57_AB:P,3P57_CD:P,3P57_IJ:P
+Ubiquitin|1YJ1|3|1S1Q_A:B,1XD3_A:B,2OOB_A:B
+MEF2A|3KOV|3|3P57_AB:P,3P57_CD:P,3P57_IJ:P
+Ran GTPase|1QG4|3|1A2K_C:AB,1I2M_A:B,1IBR_A:B
+Histone chaperone ASF1|1TEY|2|3AAD_A:B,3AAD_A:D
+Interleukin-13|1IK0|2|3G6D_LH:A,3L5W_LH:I
+Two-headed tomato inhibitor-II|1PJU|2|1OYV_A:I,1OYV_B:I
+Ricin|1IFT|2|5SV3_C:D,6CWG_B:A
+Interleukin-1 beta|4I1B|2|4G6J_HL:A,4G6M_HL:A
+HIV 93TH057 gp120|3TGT|2|3SE8_HL:G,3U7Y_HL:G
+HEW lysozyme|3LZT|2|1DQJ_AB:C,1MLC_AB:E
+Alpha actin|1IJJ|2|3DAW_A:B,4H03_A:B
+Double bromodomain|1EQF|2|3AAD_A:B,3AAD_A:D
+Subtilisin Carlsberg|1SCD|2|1OYV_A:I,1OYV_B:I
+1IRA_Y:X|8.38|3367.0|Others, Receptor containing
+1H1V_A:G|6.62|2071.0|Others, miscellaneous
+1FAK_HL:T|6.18|3363.0|Others, Receptor containing
+4GAM_AFBGCH:D|5.79|6671.0|Enzyme with regulatory/accessory chain
+1F6M_A:C|4.9|1821.0|Enzyme-Substrate
+1Y64_A:B|4.69|2745.0|Others, miscellaneous
+3AAD_A:B|4.37|1654.0|Others, miscellaneous
+1RKE_A:B|4.25|2614.0|Others, miscellaneous
+3H11_BC:A|3.79|3169.0|Enzyme with regulatory/accessory chain
+2I9B_E:A|3.79|2371.0|Others, Receptor containing
+257|489|489|472|1438.62372188139
+OX|Others, miscellaneous|55|21.4
+AA|Antibody-Antigen|55|21.4
+EI|Enzyme-Inhibitor|45|17.5
+ER|Enzyme with regulatory/accessory chain|26|10.1
+OR|Others, Receptor containing|24|9.3
+OG|Others, G-protein containing|23|8.9
+ES|Enzyme-Substrate|17|6.6
+AS|Antigen-Single domain Antibody|12|4.7
